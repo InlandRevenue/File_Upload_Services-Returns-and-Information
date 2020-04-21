@@ -3,12 +3,14 @@
 
 # Payday filing through myIR File Upload Services
 
+#### Release - 2020 tax year
+
+## About the services
+
 Payday filing through our myIR file upload services lets employers:
 * send changes to employee details (ED) for new, existing and departing employees.
 * file employment information (EI) to us each pay cycle instead of monthly.
 * send employment information amendments (EIA).
-
-### Release - 2020 tax year
 
 -----------------
 ## Key documentation
@@ -28,37 +30,37 @@ Payday filing through our myIR file upload services lets employers:
     * [Download the Employment Information Casebook Release 2020](PaydaySoftwareDevelopersCasebook2020v12.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
 		* Use the examples in this document to compare with the output from your software package
 	
-- Sample files
+## Sample files
     * [View and download](#ED-sample-files) employee details (ED) csv sample file and Excel template
 	* [View and download](#EI-sample-files) employment information (EI) csv casebook (input and filing) and sample files
 	* [View and download](#EIA-sample-files) employment information amendments (EIA) csv sample file
 	
 - Excel template
-	* [Download employee details Excel template](New-and-departing-employee-details-template_R2020.xls)
+	* [Download employee details Excel template](New-and-departing-employee-details-template_R2020.xlsx)
 	
-- Testing and support for file upload service
+## Testing and support for file upload service
+
 We provide support for development and testing of the payday filing myIR file upload services.
 
 * Please register your organisation in our developer portal to access support and to keep up to date with the latest release.
 * Once registered you request access to our Test a file services.
 
-	* [Register for the developer portal](https//developerportal.ird.govt.nz/?Link=SIGNUP)
+	* [Register for the developer portal](https://developerportal.ird.govt.nz/?Link=SIGNUP)
 
 * Alternatively, if you do not need support you can submit files to us to validate their compatibility with our payday filing specification.
 
-	* View the Test a file services
+	* [View the Test a file services](#Test-a-file-services)
 
 ## Supporting information
 
-Find out about:
-* the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes [on the IR website](https://www.ird.govt.nz/digital-service-providers/services-catalogue/returns-and-information/payday-filing/payroll-calculations-and-business-rules)
-* how to make employee deduction payments [on the IR website](https://www.ird.govt.nz/payroll-employers/returns-payments/payday-filing/)
+* [Download and view the Payroll calculations and business rules specifications 2021 Release](Payroll_calculations _business_rules_specifications_2021_V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
+* Find out how to make employee deduction payments [on the IR website](https://www.ird.govt.nz/payroll-employers/returns-payments/payday-filing/)
 
 ## Supporting services
 
-* [Service: Multi-payment option](../Service%20-%20Multi-Payment%20ption/)
+* Service: [Multi-payment option](../Service%20-%20Multi-Payment%20ption/)
 
------------------
+----
 ## Sample files
 
 ### ED sample files
@@ -76,7 +78,7 @@ Find out about:
 
 * employment information amendment csv sample file - [2020 EIA version](./Sample%20files/EIA_Test_EIA_2020_example.csv)
 
------------------
+----
 ## Test a file services
 
 * [Employee Details CSV - Release 2020](https://myir.ird.govt.nz/eservices/home?link=TSTEMP)
