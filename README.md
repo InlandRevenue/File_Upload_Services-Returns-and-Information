@@ -1,3 +1,6 @@
+![IRD logo](Images/IRlogo.gif)
+![Software Dev](Images/SoftwareDev.png)
+
 # Returns and Information
 
 Use this repository to access software development kits (SDKs) for returns and information services offered through Inland Revenue's myIR file upload services.
