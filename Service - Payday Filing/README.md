@@ -17,20 +17,28 @@ Payday filing through our myIR file upload services lets employers:
 ## Key documentation
 
 - Business use cases
-	* [Download and view](../Payday%20filing%20-%20ED%20and%20EI%20GWS%20business%20use%20cases.pdf) the payday filing business use cases
+	* [Download and view](Paydayfiling_myIR_Fileupload_business_use_cases_2021.pdf) the payday filing business use cases
 	
 - Technical Specifications 
-	* [Download the Payday filing specifications for file upload](Payday%20filing%20file%20upload%20specification%202021%20V1.1.pdf) for the period April 2020 to March 2021. This incorporates
+	* [Download the Payday filing specifications for file upload](PaydayFiling_FileUpload_Specification_2021_V1.1.pdf) for the period April 2020 to March 2021. This incorporates
 		* employee details file transfer (CSV format) for HED2 and HED versions
 		* employee details file upload (Excel format) services 
 		* employment information file transfer service (CSV format) for HEI2 and HEI versions
 		* employment information amendments file transfer service (CSV format) for EIA2 and EIA versions
 		* EMS and EDF payroll filing (CSV format) - filing amendments to payroll schedules submitted before 1 April 2019. 
 	
+- Casebooks
+    * [Download the Employment Information Casebook 2021 tax year(HE12) v 1.0](Payday_EI_Casebook_2021_HEI2_V1.0.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
+	* [Download the Employment Information Casebook 2021 tax year (HE1) v 11](Payday_EI_Casebook_2021_HEI_V11.pdf) to view scenarios and examples that support the content in the payday filing file upload specification	
+		* Use the examples in these documents to compare with the output from your software package
+	
 - Sample files
-    * [View and download](#ED-sample-files) employee details (ED) sample files for HED2 and HED versions
-	* [View and download](#EI-sample-files) employment information (EI) sample files for HEI2 and HEI versions
-	* [View and download](#EIA-sample-files) employment information amendments (EIA) sample files for EIA2 and EIA versions
+    * [View and download](#ED-sample-files) employee details (ED) sample files for HED2 version
+	* [View and download](#EI-sample-and-casebook-files) employment information (EI) sample files for HEI2 and HEI versions
+	* [View and download](#EIA-sample-files) employment information amendments (EIA) sample files for EIA2 version
+
+- Excel template
+	* [Download employee details Excel template](New_and_departing_Employee_Details_template_R2021.xls)
 	
 - Testing and support for file upload service
 We provide support for development and testing of the payday filing myIR file upload services.
@@ -89,15 +97,20 @@ Find out about:
 
 ### ED sample files
 
-* employee details csv sample file - HED2 version
+* employee details csv sample file - [2021 HED2 version](./Sample%20files/ED_Test_HED2_2021_example.csv)
 
-### EI sample files
+### EI sample and casebook files
 
-* employment information csv sample file - HEI2 version
+* employment information csv sample file - [2021 HEI2 version](./Sample%20files/EI_Test_HEI2_2021_example.csv)
+* employment information csv casebook input file - [2021 HEI2 version](./Sample%20files/Casebook_EI_Input_HEI2_2021_V1.0.csv)
+* employment information csv casebook upload file - [2021 HEI2 version](./Sample%20files/Casebook_EI_Upload_HEI2_2021_V1.0.csv)
+* employment information csv casebook input file - [2021 HEI version](./Sample%20files/Casebook_EI_Input_HEI_2021_v11.csv)
+* employment information csv casebook upload file - [2021 HEI version](./Sample%20files/Casebook_EI_Upload_HEI_2021_v11.csv)
+
 	
 ### EIA sample files
 
-* employment information amendment csv sample file - EIA2 version
+* employment information amendment csv sample file - [2021 EIA2 version](./Sample%20files/EIA_Test_EIA2_2021_example.csv)
 
 -----------------
 ## Test a file services
