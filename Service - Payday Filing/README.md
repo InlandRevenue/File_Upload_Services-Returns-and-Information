@@ -32,13 +32,13 @@ Payday filing through our myIR file upload services lets employers:
 	
 - Casebooks
     * [Download the Employment Information Casebook 2021 tax year (HE12) v 1.0](Payday_EI_Casebook_2021_HEI2_V1.0.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
-	* [Download the Employment Information Casebook 2021 tax year (HE1) v 11](Payday_EI_Casebook_2021_HEI_V11.pdf) to view scenarios and examples that support the content in the payday filing file upload specification	
-		* Use the examples in these documents to compare with the output from your software package
+	* [Download the Employment Information Casebook 2021 tax year (HE1) v 11](Payday_EI_Casebook_2021_HEI_V11.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
+	* Use the examples to compare with the output from your software package.
 	
 ## Sample files
-    * [View and download](#ED-sample-files) employee details (ED) sample files for HED2 version
-	* [View and download](#EI-sample-and-casebook-files) employment information (EI) casebook and sample files for HEI2 and HEI versions
-	* [View and download](#EIA-sample-files) employment information amendments (EIA) sample files for EIA2 version
+* [View and download](#ED-sample-files) employee details (ED) sample files for HED2 version
+* [View and download](#EI-sample-and-casebook-files) employment information (EI) casebook and sample files for HEI2 and HEI versions
+* [View and download](#EIA-sample-files) employment information amendments (EIA) sample files for EIA2 version
 
 - Excel template
 	* [Download employee details Excel template](New_and_departing_Employee_Details_template_R2021.xls)
