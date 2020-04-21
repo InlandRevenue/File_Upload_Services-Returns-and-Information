@@ -27,13 +27,13 @@ Payday filing through our myIR file upload services lets employers:
 		* EMS and EDF payroll filing (csv format) - filing amendments to payroll schedules submitted before 1 April 2019
 		
 - Case book
-    * [Download the Employment Information Casebook Release 2020](PaydaySoftwareDevelopersCasebook2020v12.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
-		* Use the examples in this document to compare with the output from your software package
+    * [Download the Employment Information Casebook Release 2020](PaydaySoftwareDevelopersCasebook2020v12.pdf) to view scenarios and examples that support the content in the payday filing file upload specification. 
+	* Use the examples to compare with the output from your software package.
 	
 ## Sample files
-    * [View and download](#ED-sample-files) employee details (ED) csv sample file and Excel template
-	* [View and download](#EI-sample-files) employment information (EI) csv casebook (input and filing) and sample files
-	* [View and download](#EIA-sample-files) employment information amendments (EIA) csv sample file
+* [View and download](#ED-sample-files) employee details (ED) csv sample file and Excel template
+* [View and download](#EI-sample-files) employment information (EI) csv casebook (input and filing) and sample files
+* [View and download](#EIA-sample-files) employment information amendments (EIA) csv sample file
 	
 - Excel template
 	* [Download employee details Excel template](New-and-departing-employee-details-template_R2020.xlsx)
