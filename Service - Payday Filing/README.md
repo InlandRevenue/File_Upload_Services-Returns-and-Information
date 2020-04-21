@@ -13,10 +13,11 @@ Payday filing through our myIR file upload services lets employers:
 ### Archive 
 * [Payday Filing - 2020 tax year](./Archive/Release2020/)
 
+-----------------
 ## Key documentation
 
 - Business use cases
-	* [Download and view](../Payday%20filing%20-%20ED%20and%20EI%20GWS%20business%20use%20cases.pdf)
+	* [Download and view](../Payday%20filing%20-%20ED%20and%20EI%20GWS%20business%20use%20cases.pdf) the payday filing business use cases
 	
 - Technical Specifications 
 	* [Download the Payday filing specifications for file upload](Payday%20filing%20file%20upload%20specification%202021%20V1.1.pdf) for the period April 2020 to March 2021. This incorporates
@@ -27,9 +28,21 @@ Payday filing through our myIR file upload services lets employers:
 		* EMS and EDF payroll filing (CSV format) - filing amendments to payroll schedules submitted before 1 April 2019. 
 	
 - Sample files
-    * [View and download](#ED-sample-files)employee details (ED) sample files for HED2 and HED versions
-	* [View and download](#EI-sample-files)employment information (EI) sample files for HEI2 and HEI versions
-	* [View and download](#EIA-sample-files)employment information amendments (EIA) sample files for EIA2 and EIA versions
+    * [View and download](#ED-sample-files) employee details (ED) sample files for HED2 and HED versions
+	* [View and download](#EI-sample-files) employment information (EI) sample files for HEI2 and HEI versions
+	* [View and download](#EIA-sample-files) employment information amendments (EIA) sample files for EIA2 and EIA versions
+	
+- Testing and support for file upload service
+We provide support for development and testing of the payday filing myIR file upload services.
+
+* Please register your organisation in our developer portal to access support and to keep up to date with the latest release.
+* Once registered you request access to our Test a file services.
+
+	* [Register for the developer portal](http://https//developerportal.ird.govt.nz/?Link=SIGNUP)
+
+* Alternatively, if you do not need support you can submit files to us to validate their compatibility with our payday filing specification.
+
+	* View the Test a file services
 
 ## Supporting information
 
@@ -72,19 +85,24 @@ Find out about:
 > * If you already have a functioning amendment process, you do not have to use the prior period adjustment fields. You may continue to amend the incorrect returns.
 
 -----------------
-## Message samples
+## Sample files
 
 ### ED sample files
 
-	* employee details csv sample file - HED2 version
-	* employee details csv sample file - HED version
+* employee details csv sample file - HED2 version
 
 ### EI sample files
 
-	* employment information csv sample file - HEI2 version
-	* employment information csv sample file - HEI version
+* employment information csv sample file - HEI2 version
 	
 ### EIA sample files
 
-	* employment information amendment csv sample file - EIA2 version
-	* employment information amendment csv sample file - EIA version
+* employment information amendment csv sample file - EIA2 version
+
+-----------------
+## Test a file services
+
+* [Employee Details CSV - Release 2021](https://myir.ird.govt.nz/eservices/home?link=TSTEMP2)
+* [Employee Details Excel Release 2021](https://myir.ird.govt.nz/eservices/home?link=TSTLNK)
+* [Employment Information CSV Release 2021](https://myir.ird.govt.nz/eservices/home?link=PSOEI2TEST)
+* [Employment Information Amend CSV Release 2021](https://myir.ird.govt.nz/eservices/home?link=PSOEIATEST2)
