@@ -1,5 +1,5 @@
 ![IRD logo](Images/IRlogo.gif)
-![Software Dev](Images/SoftwareDev.png)
+![Software Dev](Images/SoftwareDev.png)git 
 
 # Returns and Information
 
@@ -20,4 +20,4 @@ Payday filing through our myIR file upload services lets employers:
 ## [Multi-Payment Option](./Service%20-%20Multi-Payment%20ption/)
 
 The Multi-payment option (MPO) service 
-* Enables filing any schedular payments to a payers multi-payment option (MPO) account at Inland Revenue which are then posted against multiple customer's accounts. 
+* Enables filing any schedular payments to a payers multi-payment option (MPO) account at Inland Revenue which are then posted against multiple customer's accounts.
