@@ -13,7 +13,7 @@ Payday filing through our myIR file upload services lets employers:
 * send employment information amendments (EIA).
 
 #### Latest Release
-* [Payday Filing - 2021 tax year](../../ReadMe.md)
+* [Payday Filing - 2021 tax year](../../)
 
 -----------------
 ## Key documentation
