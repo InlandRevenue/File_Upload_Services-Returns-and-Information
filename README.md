@@ -18,7 +18,7 @@ Payday filing through our myIR file upload services lets employers:
 * send changes to employee details (ED) for new, existing and departing employees.
 * send employment information amendments (EIA).
 
-## [Multi-Payment Option](./Service%20-%20Multi-Payment%20ption/)
+## [Multi-Payment Option](./Service%20-%20Multi-Payment%20Option/)
 
 The Multi-payment option (MPO) service enables:
 *  filing any schedular payments to a payers multi-payment option (MPO) account at Inland Revenue which are then posted against multiple customer's accounts.

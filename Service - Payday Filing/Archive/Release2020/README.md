@@ -12,6 +12,9 @@ Payday filing through our myIR file upload services lets employers:
 * file employment information (EI) to us each pay cycle instead of monthly.
 * send employment information amendments (EIA).
 
+#### Latest Release
+* [Payday Filing - 2021 tax year](../../)
+
 -----------------
 ## Key documentation
 
