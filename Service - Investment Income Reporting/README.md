@@ -10,6 +10,7 @@ Investment income reporting through myIR file upload services lets organisations
 * It enables payers to send investment income information to us more frequently and with more detail on a specific reporting period. 
 * It is available for the withholding tax product types - Approved issuer levy (AIL), Dividend withholding tax (DWT), Interest pay as you earn (IPS), Non-resident withholding tax (NRT), Resident withholding tax (RWT) and Portfolio investment entities (PIE) attributed income tax.
 
+-----------------
 
 ## Key documentation
 
@@ -22,8 +23,9 @@ Investment income reporting through myIR file upload services lets organisations
 		* Resident Withholding Tax (RWT) file transfer service (CSV format) for dividends as interest and Maori Authority distributions
 	* [Download the Portfolio Investment Entities (PIE) filing specifications for file upload](PIE%20file%20upload%20specification%20V10.pdf)
 
+-----------------
 
-##Sample files
+## Sample files
 
 * [Approved Issuer Levy (AIL) CSV sample file](./Sample%20files/AIL%20example%20file.csv)
 * [Dividend Withholding Tax (DWT) 1 shareholder CSV sample file](./Sample%20files/DWT%201SH%20sample%20file.csv)
@@ -37,6 +39,7 @@ Investment income reporting through myIR file upload services lets organisations
 * [Resident Withholding Tax (RWT) Maori Authority distributions CSV sample file](./Sample%20files/RWT%20Maori%20Authority%20Distributions%20example%20file.csv)
 * [Portfolio Investment Entities (PIE) CSV sample file]()
 
+-----------------
 
 ## Testing and support for file upload service
 
@@ -51,6 +54,7 @@ We provide support for development and testing of the Investment income reportin
 
 	* [Access the Test a file services](#Test-a-file-services)
 
+-----------------
 
 ## Test a file services
 
