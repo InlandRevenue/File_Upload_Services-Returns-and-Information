@@ -48,16 +48,16 @@ Investment income reporting through myIR file upload services lets organisations
 * Portfolio Investment Entities (PIE) 
 	* PIE Periodic Return 
 		* [One file, single IR852 return - PIEReturns-20100531-001.csv](./Sample%20files/PIEReturns-20100531-001.csv)
-       * [One file, single IR852 return - PIEReturns-20200531-001.csv](./Sample%20files/PIEReturns-20200531-001.csv)
+		* [One file, single IR852 return - PIEReturns-20200531-001.csv](./Sample%20files/PIEReturns-20200531-001.csv)
 		* [One file, multiple PIEs - PIEReturns-20100531-002.csv](./Sample%20files/PIEReturns-20100531-002.csv)
 		* [One file, multiple PIEs - PIEReturns-20200531-002.csv](./Sample%20files/PIEReturns-20200531-002.csv)
-       * Annual Reconciliation Return
+	* Annual Reconciliation Return
 		* [One file, single IR853 return - PIEReturns-20200628-005.csv](./Sample%20files/PIEReturns-20200628-005.csv)
 		* [One file, multiple IR853 returns, multiple PIEs - PIEReturns-202005031-002.csv](./Sample%20files/PIEReturns-202005031-002.csv)
        * Investor Certificates
 		* [One file, multiple IR854 investor certificates - PIEReturns-20200331-001.csv](./Sample%20files/PIEReturns-20200331-001.csv)
        * Grouped file example
-       * [Grouped file - PIEReturns-20200603-01.zip](./Sample%20files/PIEReturns-20200603-01.zip)
+       	* [Grouped file - PIEReturns-20200603-01.zip](./Sample%20files/PIEReturns-20200603-01.zip)
 
 -----------------
 
