@@ -78,11 +78,11 @@ We provide support for development and testing of the Investment income reportin
 
 ## Test a file services
 
-* [Approved Issuer Levy (AIL) – CSV format](https://eservices-test.npnsp.ird.govt.nz/eservices/home/?link=AILTEST)
-* [Dividend Withholding Tax (DWT) – CSV format](https://eservices-test.npnsp.ird.govt.nz/eservices/home/?link=DWTTEST)
-* [Interest Pay as you earn (IPS) – CSV format](https://eservices-test.npnsp.ird.govt.nz/eservices/home/?link=IPSTEST)
-* [Non-Resident withholding Tax (NRT) – CSV format](https://eservices-test.npnsp.ird.govt.nz/eservices/home/?link=NRTTEST)
-* [Resident Withholding Tax (RWT) – CSV format](https://eservices-test.npnsp.ird.govt.nz/eservices/home/?link=RWTTEST)
-* [Portfolio Investment Entities (PIE) CSV](https://eservices-test.npnsp.ird.govt.nz/eservices/home/?link=PIETEST)
+* [Approved Issuer Levy (AIL) - CSV format](https://myir.ird.govt.nz/eservices/home/?link=AILTEST)
+* [Dividend Withholding Tax (DWT) - CSV format](https://myir.ird.govt.nz/eservices/home/?link=DWTTEST)
+* [Interest Pay as you earn (IPS) - CSV format](https://myir.ird.govt.nz/eservices/home/?link=IPSTEST)
+* [Non-Resident withholding Tax (NRT) - CSV format](https://myir.ird.govt.nz/eservices/home/?link=NRTTEST)
+* [Resident Withholding Tax (RWT) - CSV format](https://myir.ird.govt.nz/eservices/home/?link=RWTTEST)
+* Portfolio Investment Entities (PIE) – CSV format – coming soon
 
 
