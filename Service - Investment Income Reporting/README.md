@@ -47,17 +47,17 @@ Investment income reporting through myIR file upload services lets organisations
 	* [Maori Authority distributions CSV sample file](./Sample%20files/RWT%20Maori%20Authority%20Distributions%20example%20file.csv)
 * Portfolio Investment Entities (PIE) 
 	* PIE Periodic Return 
-		* [One file, single IR852 return - PIEReturns-20100531-001.csv](./Sample%20files/PIE%20Prd%20return%20single%20PIE-20100531-001.csv)
-		* [One file, single IR852 return - PIEReturns-20200531-001.csv](./Sample%20files/PIE%20Prd%20return%20single%20PIE-20200531-001.csv)
-		* [One file, multiple PIEs - PIEReturns-20100531-002.csv](./Sample%20files/PIE%20Prd%20return%20multiple%20PIEs-20100531-002.csv)
-		* [One file, multiple PIEs - PIEReturns-20200531-002.csv](./Sample%20files/PIE%20Prd%20return%20multiple%20PIEs-20200531-002.csv)
+		* [One file, single IR852 return - PIE Prd return single PIE-20100531-001.csv](./Sample%20files/PIE%20Prd%20return%20single%20PIE-20100531-001.csv)
+		* [One file, single IR852 return - PIE Prd return single PIE-20200531-001.csv](./Sample%20files/PIE%20Prd%20return%20single%20PIE-20200531-001.csv)
+		* [One file, multiple PIEs - PIE Prd return multiple PIEs-20100531-002.csv](./Sample%20files/PIE%20Prd%20return%20multiple%20PIEs-20100531-002.csv)
+		* [One file, multiple PIEs - PIE Prd return multiple PIEs-20200531-002.csv](./Sample%20files/PIE%20Prd%20return%20multiple%20PIEs-20200531-002.csv)
 	* Annual Reconciliation Return
-		* [One file, single IR853 return - PIEReturns-20200628-005.csv](./Sample%20files/PIE%20AR%20return%20single%20PIE-20200628-005.csv)
-		* [One file, multiple IR853 returns, multiple PIEs - PIEReturns-202005031-002.csv](./Sample%20files/PIE%20AR%20return%20multiple%20PIEs-202005031-002.csv)
+		* [One file, single IR853 return - PIE AR return single PIE-20200628-005.csv](./Sample%20files/PIE%20AR%20return%20single%20PIE-20200628-005.csv)
+		* [One file, multiple IR853 returns, multiple PIEs - PIE AR return multiple PIEs-202005031-002.csv](./Sample%20files/PIE%20AR%20return%20multiple%20PIEs-202005031-002.csv)
 	* Investor Certificates
-		* [One file, multiple IR854 investor certificates - PIEReturns-20200331-001.csv](./Sample%20files/PIE%20IC%20return%20single%20PIE-20200331-001.csv)
+		* [One file, multiple IR854 investor certificates - PIE IC return single PIE-20200331-001.csv](./Sample%20files/PIE%20IC%20return%20single%20PIE-20200331-001.csv)
 	* Grouped file example
-		* [Grouped file - PIEReturns-20200603-01.zip](./Sample%20files/PIE%20Grouped%20Returns-20200603-01.zip)
+		* [Grouped file - PIE Grouped Returns-20200603-01.zip](./Sample%20files/PIE%20Grouped%20Returns-20200603-01.zip)
 
 -----------------
 
