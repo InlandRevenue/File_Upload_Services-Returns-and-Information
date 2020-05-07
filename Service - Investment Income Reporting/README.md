@@ -83,6 +83,7 @@ We provide support for development and testing of the Investment income reportin
 * [Interest Pay as you earn (IPS) - CSV format](https://myir.ird.govt.nz/eservices/home/?link=IPSTEST)
 * [Non-Resident withholding Tax (NRT) - CSV format](https://myir.ird.govt.nz/eservices/home/?link=NRTTEST)
 * [Resident Withholding Tax (RWT) - CSV format](https://myir.ird.govt.nz/eservices/home/?link=RWTTEST)
-* Portfolio Investment Entities (PIE) - CSV format - coming soon
+* [Portfolio Investment Entities (PIE) - CSV format - Investor Certificate returns only](https://myir.ird.govt.nz/eservices/home?link=PIETEST)
+* Portfolio Investment Entities (PIE) - CSV format - Periodic and Annual Reconciliation returns coming soon
 
 
