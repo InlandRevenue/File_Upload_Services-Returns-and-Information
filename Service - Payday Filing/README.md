@@ -58,8 +58,8 @@ We provide support for development and testing of the payday filing myIR file up
 
 ## Supporting information
 
-* [Download and view the Payroll calculations and business rules specifications 2020 Release](Payroll_calculations_business_rules_specifications_2020_V1.3.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
-* Find out how to make employee deduction payments [on the IR website](https://www.ird.govt.nz/payroll-employers/returns-payments/payday-filing/)
+* [Download and view the Payroll calculations and business rules specifications 2021 Release](Payroll_calculations%20_business_rules_specifications_2021_V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
+* Find out how to make employee deduction payments [on the IR website](https://www.ird.govt.nz/employing-staff/payday-filing)
 
 ## Supporting services
 
@@ -118,7 +118,7 @@ We provide support for development and testing of the payday filing myIR file up
 ----
 ## Test a file services
 
-* [Employee Details CSV - Release 2021](https://myir.ird.govt.nz/eservices/home?link=TSTEMP2)
-* [Employee Details Excel Release 2021](https://myir.ird.govt.nz/eservices/home?link=TSTLNK)
-* [Employment Information CSV Release 2021](https://myir.ird.govt.nz/eservices/home?link=PSOEI2TEST)
-* [Employment Information Amend CSV Release 2021](https://myir.ird.govt.nz/eservices/home?link=PSOEIATEST2)
+* <a href="https://myir.ird.govt.nz/eservices/home?link=TSTEMP2" target="_blank">Employee Details CSV - Release 2021</a>
+* <a href="https://myir.ird.govt.nz/eservices/home?link=TSTLNK" target="_blank">Employee Details Excel Release 2021</a>
+* <a href="https://myir.ird.govt.nz/eservices/home?link=PSOEI2TEST" target="_blank">Employment Information CSV Release 2021</a>
+* <a href="https://myir.ird.govt.nz/eservices/home?link=PSOEIATEST2" target="_blank">Employment Information Amend CSV Release 2021</a>
