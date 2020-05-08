@@ -90,3 +90,9 @@ We provide support for development and testing of the payday filing myIR file up
 * <a href="https://myir.ird.govt.nz/eservices/home?link=TSTFIL" target="_blank">Employee Details Excel Release 2020</a>
 * <a href="https://myir.ird.govt.nz/eservices/home?link=PSOEITEST" target="_blank">Employment Information CSV Release 2020</a>
 * <a href="https://myir.ird.govt.nz/eservices/home?link=PSOEIATEST" target="_blank">Employment Information Amendment CSV Release 2020</a>
+
+### Payroll amendments - Pre-release 2020 tax year
+
+* <a href="https://myir.ird.govt.nz/eservices/home/?Link=PSOEPSTEST" target="_blank">Employer deduction schedule (EDS) for payroll intermediaries</a>
+* <a href="https://myir.ird.govt.nz/eservices/home?link=PSOEASTEST" target="_blank">Amend employer schedules</a>
+* <a href="https://myir.ird.govt.nz/eservices/home/?Link=PRSSCFTEST" target="_blank">Payroll intermediary subsidy claim form (SCF)</a>
