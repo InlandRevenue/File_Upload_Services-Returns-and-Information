@@ -14,7 +14,21 @@ Investment income reporting through myIR file upload services lets organisations
 * It enables payers to send investment income information to us more frequently and with more detail on a specific reporting period. 
 * It is available for the withholding tax product types - Approved issuer levy (AIL), Dividend withholding tax (DWT), Interest pay as you earn (IPS), Non-resident withholding tax (NRT), Resident withholding tax (RWT) and Portfolio investment entities (PIE) attributed income tax.
 
+----
+## Release 2020 update details
 
+### Investment Income Reporting file upload service - updates in specification v1.3
+
+* AIL File - updated AIL deducted and AIL rate fields - validation rules updated for custodians 
+* DWT File - updated Shares field - validation rules updated for custodians
+* NRT File - updated Shares and Bonus issue fields - validation rules updated for custodians
+* Interest Pay as your Earn (IPS) - Renamed the service name to Resident Withholding Tax on Interest (IPS) - correct term for tax type
+
+### IIR PIE file upload service - updates in specification v1.1
+
+* Periodic return, Annual Reconciliation return, Investor Certificate return - updated sample file names for easier identification of return types
+
+----
 ## Key documentation
 
 - Technical Specifications
@@ -31,7 +45,7 @@ Investment income reporting through myIR file upload services lets organisations
 		* Investor Certificates file transfer service (CSV format)
 
 - User guide
-    * [Download the Investment Income Reporting file upload guide v 1.0](Investment_Income_Returns_file_upload guide.pdf) to view guidelines on how to file for DWT, IPS and NRT that support the content in the Investment Income Reporting file upload specification.
+    * [Download the Investment Income Reporting file upload guide v 1.0](Investment_Income_Returns_file_upload_guide.pdf) to view guidelines on how to file for DWT, IPS and NRT that support the content in the Investment Income Reporting file upload specification.
 	* [Download the IIR csv data template](csv_data_template.xlsx) to view specification example records for DWT, IPS and NRT to support the user guide.
 
 ## Sample files
@@ -55,58 +69,50 @@ We provide support for development and testing of the Investment income reportin
 
 	* [Access the Test a file services](#Test-a-file-services)
 
-
-## Release 2020 update details
-
-### Investment Income Reporting file upload service - updates in specification v1.3
-
-* AIL File - updated AIL deducted and AIL rate fields - validation rules updated for custodians 
-* DWT File - updated Shares field - validation rules updated for custodians
-* NRT File - updated Shares and Bonus issue fields - validation rules updated for custodians
-* Interest Pay as your Earn (IPS) - Renamed the service name to Resident Withholding Tax on Interest (IPS) - correct term for tax type
-
-### IIR PIE file upload service - updates in specification v1.1
-
-* Periodic return, Annual Reconciliation return, Investor Certificate return - updated sample file names for easier identification of return types
-
-
+----
 ## Sample files
 
 ### Approved Issuer Levy
-	* [CSV sample file](./Sample%20files/AIL%20example%20file.csv)
+
+* [CSV sample file](./Sample%20files/AIL%20example%20file.csv)
 
 ### Dividend Withholding Tax
-	* [1 shareholder CSV sample file](./Sample%20files/DWT%201SH%20sample%20file.csv)
-	* [2 shareholders joint AC CSV sample file](./Sample%20files/DWT%202SH%20JointAC%20sample%20file.csv)
+
+* [1 shareholder CSV sample file](./Sample%20files/DWT%201SH%20sample%20file.csv)
+* [2 shareholders joint AC CSV sample file](./Sample%20files/DWT%202SH%20JointAC%20sample%20file.csv)
 
 ### Non-Resident Withholding Tax
-	* [AU resident dividends CSV sample file](./Sample%20files/NRT%20AU%20resident%20Dividends%20example%20file.csv)
-	* [AU resident interest CSV sample file](./Sample%20files/NRT%20AU%20resident%20Interest%20example%20file.csv)
-	* [US resident royalties CSV sample file](./Sample%20files/NRT%20US%20resident%20Royalties%20example%20file.csv)
-	* [CA resident copyright (cultural) royalties CSV sample file](./Sample%20files/NRT%20CA%20Resident%20copyright%20royalties%20example%20file.csv)
+
+* [AU resident dividends CSV sample file](./Sample%20files/NRT%20AU%20resident%20Dividends%20example%20file.csv)
+* [AU resident interest CSV sample file](./Sample%20files/NRT%20AU%20resident%20Interest%20example%20file.csv)
+* [US resident royalties CSV sample file](./Sample%20files/NRT%20US%20resident%20Royalties%20example%20file.csv)
+* [CA resident copyright (cultural) royalties CSV sample file](./Sample%20files/NRT%20CA%20Resident%20copyright%20royalties%20example%20file.csv)
 
 ### Resident Withholding Tax on Interest
-	* [CSV sample file](./Sample%20files/IPS%20example%20file.csv)
+
+* [CSV sample file](./Sample%20files/IPS%20example%20file.csv)
 
 ### Resident Withholding Tax
-	* [Dividends as interest CSV sample file](./Sample%20files/RWT%20Dividends%20as%20Interest%20example%20file.csv)
-	* [Maori Authority distributions CSV sample file](./Sample%20files/RWT%20Maori%20Authority%20Distributions%20example%20file.csv)
+
+* [Dividends as interest CSV sample file](./Sample%20files/RWT%20Dividends%20as%20Interest%20example%20file.csv)
+* [Maori Authority distributions CSV sample file](./Sample%20files/RWT%20Maori%20Authority%20Distributions%20example%20file.csv)
 
 ### Portfolio Investment Entities
-	* PIE Periodic Return 
-		* [One file, single IR852 return - PIE Prd return single PIE-20100531-001.csv](./Sample%20files/PIE%20Prd%20return%20single%20PIE-20100531-001.csv)
-		* [One file, single IR852 return - PIE Prd return single PIE-20200531-001.csv](./Sample%20files/PIE%20Prd%20return%20single%20PIE-20200531-001.csv)
-		* [One file, multiple PIEs - PIE Prd return multiple PIEs-20100531-002.csv](./Sample%20files/PIE%20Prd%20return%20multiple%20PIEs-20100531-002.csv)
-		* [One file, multiple PIEs - PIE Prd return multiple PIEs-20200531-002.csv](./Sample%20files/PIE%20Prd%20return%20multiple%20PIEs-20200531-002.csv)
-	* Annual Reconciliation Return
-		* [One file, single IR853 return - PIE AR return single PIE-20200628-005.csv](./Sample%20files/PIE%20AR%20return%20single%20PIE-20200628-005.csv)
-		* [One file, multiple IR853 returns, multiple PIEs - PIE AR return multiple PIEs-202005031-002.csv](./Sample%20files/PIE%20AR%20return%20multiple%20PIEs-202005031-002.csv)
-	* Investor Certificates
-		* [One file, multiple IR854 investor certificates - PIE IC return single PIE-20200331-001.csv](./Sample%20files/PIE%20IC%20return%20single%20PIE-20200331-001.csv)
-	* Grouped file example
-		* [Grouped file - PIE Grouped Returns-20200603-01.zip](./Sample%20files/PIE%20Grouped%20Returns-20200603-01.zip)
 
+* PIE Periodic Return 
+	* [One file, single IR852 return - PIE Prd return single PIE-20100531-001.csv](./Sample%20files/PIE%20Prd%20return%20single%20PIE-20100531-001.csv)
+	* [One file, single IR852 return - PIE Prd return single PIE-20200531-001.csv](./Sample%20files/PIE%20Prd%20return%20single%20PIE-20200531-001.csv)
+	* [One file, multiple PIEs - PIE Prd return multiple PIEs-20100531-002.csv](./Sample%20files/PIE%20Prd%20return%20multiple%20PIEs-20100531-002.csv)
+	* [One file, multiple PIEs - PIE Prd return multiple PIEs-20200531-002.csv](./Sample%20files/PIE%20Prd%20return%20multiple%20PIEs-20200531-002.csv)
+* Annual Reconciliation Return
+	* [One file, single IR853 return - PIE AR return single PIE-20200628-005.csv](./Sample%20files/PIE%20AR%20return%20single%20PIE-20200628-005.csv)
+	* [One file, multiple IR853 returns, multiple PIEs - PIE AR return multiple PIEs-202005031-002.csv](./Sample%20files/PIE%20AR%20return%20multiple%20PIEs-202005031-002.csv)
+* Investor Certificates
+	* [One file, multiple IR854 investor certificates - PIE IC return single PIE-20200331-001.csv](./Sample%20files/PIE%20IC%20return%20single%20PIE-20200331-001.csv)
+* Grouped file example
+	* [Grouped file - PIE Grouped Returns-20200603-01.zip](./Sample%20files/PIE%20Grouped%20Returns-20200603-01.zip)
 
+----
 ## Test a file services
 
 * [Approved Issuer Levy (AIL) - CSV format](https://myir.ird.govt.nz/eservices/home/?link=AILTEST)
