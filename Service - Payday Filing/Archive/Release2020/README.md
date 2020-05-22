@@ -87,7 +87,6 @@ We provide support for development and testing of the payday filing myIR file up
 ### Payday filing 2020 Release
 
 * <a href="https://myir.ird.govt.nz/eservices/home?link=TSTEMP" target="_blank">Employee Details CSV - Release 2020</a>
-* <a href="https://myir.ird.govt.nz/eservices/home?link=TSTFIL" target="_blank">Employee Details Excel Release 2020</a>
 * <a href="https://myir.ird.govt.nz/eservices/home?link=PSOEITEST" target="_blank">Employment Information CSV Release 2020</a>
 * <a href="https://myir.ird.govt.nz/eservices/home?link=PSOEIATEST" target="_blank">Employment Information Amendment CSV Release 2020</a>
 
