@@ -7,6 +7,7 @@
 
 #### Archive
 * [Payday Filing - 2020 tax year](./Archive/Release2020/)
+* [Payday Filing - 2021 tax year](./Archive/Release2021/)
 
 ## About the services
 
@@ -23,7 +24,7 @@ Payday filing through our myIR file upload services lets employers:
 	* [Download and view the Payday filing business use cases](Paydayfiling_myIR_Fileupload_business_use_cases_2021.pdf)
 	
 - Technical Specifications 
-	* [Download the Payday filing specifications for file upload](PaydayFiling_FileUpload_Specification_2021_V1.1.pdf) for the period April 2020 to March 2021. This incorporates
+	* [Download the Payday filing specifications for file upload v 1.2](PaydayFiling_FileUpload_Specification_2021_V1.2.pdf) for the period April 2020 to March 2021. This incorporates
 		* employee details file transfer (CSV format) for HED2 and HED versions
 		* employee details file upload (Excel format) services 
 		* employment information file transfer service (CSV format) for HEI2 and HEI versions
@@ -83,6 +84,17 @@ We provide support for development and testing of the payday filing myIR file up
 > * If the previous version of the ED CSV file is still being used, then the current KED file may be used for providing KiwiSaver details, however the KED will not be accepted from 1 April 2021. 
 > * The new version of the Excel ED file must always be used from the R4 release in April 2020
 
+### Specification 1.2 Update to Employee Details
+
+* ED excel and csv files - State field - description - this is an optional field that should be left blank for NZ addresses.
+* ED excel file filed description updates
+	* KiwiSaver Status - changed valid options to be used
+	* Daytime phone extension 
+	* Employee’s Exempt income reason - changed valid options to be used
+	* Employee’s reason for late opt-out - changed valid options to be used
+	* Other late opt-out reason
+	* Updated the term contributions holiday to savings suspension.
+
 ### Employment Information and Employment Information Amendment file upload services
 
 * new fields for hours paid, prior period adjustments (gross and PAYE)
@@ -94,6 +106,8 @@ We provide support for development and testing of the payday filing myIR file up
 
 > Prior period adjustment fields
 > * If you already have a functioning amendment process, you do not have to use the prior period adjustment fields. You may continue to amend the incorrect returns.
+
+
 
 ----
 ## Sample files
