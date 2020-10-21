@@ -24,7 +24,7 @@ Payday filing through our myIR file upload services lets employers:
 	* [Download and view the Payday filing business use cases](Paydayfiling_myIR_Fileupload_business_use_cases_2021.pdf)
 	
 - Technical Specifications 
-	* [Download the Payday filing specifications for file upload v 1.3](PaydayFiling_FileUpload_Specification_2021_V1.3.pdf) for the period April 2020 to March 2021. This incorporates
+	* [Download the Payday filing specifications for file upload v 1.4](PaydayFiling_FileUpload_Specification_2021_V1.4.pdf) for the period April 2020 to March 2021. This incorporates
 		* employee details file transfer (CSV format) for HED2 and HED versions
 		* employee details file upload (Excel format) services 
 		* employment information file transfer service (CSV format) for HEI2 and HEI versions
