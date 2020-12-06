@@ -4,8 +4,8 @@
 # Payday filing through myIR File Upload Services
 
 
-#### Release 2021 tax year - [view details](#Release-2021-update-details)
 #### Release 2022 tax year - [view details](#Release-2022-update-details)
+#### Release 2021 tax year - [view details](#Release-2021-update-details)
 
 #### Archive
 * [Payday Filing - 2020 tax year](./Archive/Release2020/)
@@ -74,6 +74,43 @@ We provide support for development and testing of the payday filing myIR file up
 
 ----
 
+## Release 2022 update details
+
+### Employee Details file upload service
+
+File Formats no longer available for use 
+With the introduction of the new ED and EI file versions in April 2020, the following file 
+formats will no longer be accepted: 
+*  From 1 April 2021, the Employee Details file format with the header record indicator 
+of **HED** will no longer be accepted.  The updated version of the Employee Details file 
+format (header record indicator HED2) must be used. 
+*  For files with a **payday** of 1 April 2021 or later, the Employment Information file 
+format with the header record indicator of **HEI** will not be accepted.  The updated 
+version of the Employment Information file format (header record indicator HEI2) 
+must be used. 
+*  From 1 April 2021, the KiwiSaver Employment Details (**KS1**) form will no longer be 
+accepted.  All details previously provided via this form should now be provided by 
+using the HED2 version of the Employee Details file. 
+>**Note:** The original EI Amendment file (header record indicator EIA) will still be available, as 
+previously filed EI files with the header record indicator of HEI can only be amended with an 
+EIA.  
+
+### Tax threshold and rate change 
+
+Proposed is a new tax threshold/rate of 39% for income over $180,000.  There are some 
+consequential amendments which would impact payroll including: 
+*  A new secondary tax code 
+*  New rate for extra pays 
+*  A new ESCT rate 
+*  New rate and threshold for FBT calculations 
+
+Refer to the Payroll Business Rules & Calculations Specification for further details of the 
+impacts.
+
+The impacted areas of this specification have been indicated and will be confirmed once this 
+change becomes legislation. 
+
+---
 
 ## Release 2021 update details
 
@@ -117,43 +154,7 @@ We provide support for development and testing of the payday filing myIR file up
 
 ---
 
-## Release 2022 update details
 
-### Employee Details file upload service
-
-File Formats no longer available for use 
-With the introduction of the new ED and EI file versions in April 2020, the following file 
-formats will no longer be accepted: 
-*  From 1 April 2021, the Employee Details file format with the header record indicator 
-of **HED** will no longer be accepted.  The updated version of the Employee Details file 
-format (header record indicator HED2) must be used. 
-*  For files with a **payday** of 1 April 2021 or later, the Employment Information file 
-format with the header record indicator of **HEI** will not be accepted.  The updated 
-version of the Employment Information file format (header record indicator HEI2) 
-must be used. 
-*  From 1 April 2021, the KiwiSaver Employment Details (**KS1**) form will no longer be 
-accepted.  All details previously provided via this form should now be provided by 
-using the HED2 version of the Employee Details file. 
->**Note:** The original EI Amendment file (header record indicator EIA) will still be available, as 
-previously filed EI files with the header record indicator of HEI can only be amended with an 
-EIA.  
-
-### Tax threshold and rate change 
-
-Proposed is a new tax threshold/rate of 39% for income over $180,000.  There are some 
-consequential amendments which would impact payroll including: 
-*  A new secondary tax code 
-*  New rate for extra pays 
-*  A new ESCT rate 
-*  New rate and threshold for FBT calculations 
-
-Refer to the Payroll Business Rules & Calculations Specification for further details of the 
-impacts.
-
-The impacted areas of this specification have been indicated and will be confirmed once this 
-change becomes legislation. 
-
----
 
 ## Sample files
 
