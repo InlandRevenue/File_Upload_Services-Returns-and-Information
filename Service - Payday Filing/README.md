@@ -3,6 +3,8 @@
 
 # Payday filing through myIR File Upload Services
 
+
+#### Release 2022 tax year - [view details](#Release-2022-update-details)
 #### Release 2021 tax year - [view details](#Release-2021-update-details)
 
 #### Archive
@@ -23,13 +25,19 @@ Payday filing through our myIR file upload services lets employers:
 - Business use cases
 	* [Download and view the Payday filing business use cases](Paydayfiling_myIR_Fileupload_business_use_cases_2021.pdf)
 	
-- Technical Specifications 
+
+- Technical Specifications 2022
+    * [Download the Payday Filing File Upload Specification 2022 v0.01](Payday%20Filing%20File%20Upload%20Specification%202022%20v0.01.pdf) for the period April 2021 to March 2022.
+
+- Technical Specifications 2021
 	* [Download the Payday filing specifications for file upload v 1.4](PaydayFiling_FileUpload_Specification_2021_V1.4.pdf) for the period April 2020 to March 2021. This incorporates
 		* employee details file transfer (CSV format) for HED2 and HED versions
 		* employee details file upload (Excel format) services 
 		* employment information file transfer service (CSV format) for HEI2 and HEI versions
 		* employment information amendments file transfer service (CSV format) for EIA2 and EIA versions
 		* EMS and EDF payroll filing (CSV format) - filing amendments to payroll schedules submitted before 1 April 2019. 
+
+
 	
 - Casebooks
     * [Download the Employment Information Casebook 2021 tax year (HEI2) v 1.0](Payday_EI_Casebook_2021_HEI2_V1.0.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
@@ -59,14 +67,54 @@ We provide support for development and testing of the payday filing myIR file up
 
 ## Supporting information
 
-* [Download and view the Payroll calculations and business rules specifications 2021 Release](Payroll_calculations%20_business_rules_specifications_2021_V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
+* [Download and view the Payroll calculations and business rules specifications **2022** Release](Payroll+Calculations+%26+Business+Rules+Spec+2022+v0.01.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
+* [Download and view the Payroll calculations and business rules specifications **2021** Release](Payroll_calculations%20_business_rules_specifications_2021_V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * Find out how to make employee deduction payments [on the IR website](https://www.ird.govt.nz/employing-staff/payday-filing)
 
 ## Supporting services
 
 * Service: [Multi-payment option](../Service%20-%20Multi-Payment%20ption/)
 
-----
+---
+
+## Release 2022 update details
+
+### Employee Details file upload service
+
+File Formats no longer available for use 
+With the introduction of the new ED and EI file versions in April 2020, the following file 
+formats will no longer be accepted: 
+*  From 1 April 2021, the Employee Details file format with the header record indicator 
+of **HED** will no longer be accepted.  The updated version of the Employee Details file 
+format (header record indicator HED2) must be used. 
+*  For files with a **payday** of 1 April 2021 or later, the Employment Information file 
+format with the header record indicator of **HEI** will not be accepted.  The updated 
+version of the Employment Information file format (header record indicator HEI2) 
+must be used. 
+*  From 1 April 2021, the KiwiSaver Employment Details (**KS1**) form will no longer be 
+accepted.  All details previously provided via this form should now be provided by 
+using the HED2 version of the Employee Details file. 
+>**Note:** The original EI Amendment file (header record indicator EIA) will still be available, as 
+previously filed EI files with the header record indicator of HEI can only be amended with an 
+EIA.  
+
+### Tax threshold and rate change 
+
+Proposed is a new tax threshold/rate of 39% for income over $180,000.  There are some 
+consequential amendments which would impact payroll including: 
+*  A new secondary tax code 
+*  New rate for extra pays 
+*  A new ESCT rate 
+*  New rate and threshold for FBT calculations 
+
+Refer to the Payroll Business Rules & Calculations Specification for further details of the 
+impacts.
+
+The impacted areas of this specification have been indicated and will be confirmed once this 
+change becomes legislation. 
+
+---
+
 ## Release 2021 update details
 
 ### Employee Details file upload service
@@ -101,15 +149,16 @@ We provide support for development and testing of the payday filing myIR file up
 * new fields for SLCIR, SLBOR and ESS deductions
 * updated field length in the employee name field.
 
-> Note: The provision of hours paid information by employers is not compulsory. It’s requested under the same terms as employee date of birth, in that if the employer holds the information in their payroll system, they must send it to us. 
+> **Note:** The provision of hours paid information by employers is not compulsory. It’s requested under the same terms as employee date of birth, in that if the employer holds the information in their payroll system, they must send it to us. 
 > * Employers do not have to obtain this information if they do not already hold it. However, it will help us and potentially their own employees if they are able to gain the information and send it to us.
 
 > Prior period adjustment fields
 > * If you already have a functioning amendment process, you do not have to use the prior period adjustment fields. You may continue to amend the incorrect returns.
 
+---
 
 
-----
+
 ## Sample files
 
 ### ED sample files
