@@ -25,6 +25,10 @@ Payday filing through our myIR file upload services lets employers:
 - Business use cases
 	* [Download and view the Payday filing business use cases](Paydayfiling_myIR_Fileupload_business_use_cases_2021.pdf)
 	
+
+- Technical Specifications 2022
+    * [Download the Payday Filing File Upload Specification 2022 v0.01](Payday%20Filing%20File%20Upload%20Specification%202022%20v0.01.pdf) for the period April 2021 to March 2022.
+
 - Technical Specifications 2021
 	* [Download the Payday filing specifications for file upload v 1.4](PaydayFiling_FileUpload_Specification_2021_V1.4.pdf) for the period April 2020 to March 2021. This incorporates
 		* employee details file transfer (CSV format) for HED2 and HED versions
@@ -33,8 +37,7 @@ Payday filing through our myIR file upload services lets employers:
 		* employment information amendments file transfer service (CSV format) for EIA2 and EIA versions
 		* EMS and EDF payroll filing (CSV format) - filing amendments to payroll schedules submitted before 1 April 2019. 
 
-- Technical Specifications 2022
-    * [Download the Payday Filing File Upload Specification 2022 v0.01](Payday%20Filing%20File%20Upload%20Specification%202022%20v0.01.pdf) for the period April 2021 to March 2022.
+
 	
 - Casebooks
     * [Download the Employment Information Casebook 2021 tax year (HEI2) v 1.0](Payday_EI_Casebook_2021_HEI2_V1.0.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
@@ -64,15 +67,15 @@ We provide support for development and testing of the payday filing myIR file up
 
 ## Supporting information
 
-* [Download and view the Payroll calculations and business rules specifications **2021** Release](Payroll_calculations%20_business_rules_specifications_2021_V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * [Download and view the Payroll calculations and business rules specifications **2022** Release](Payroll+Calculations+%26+Business+Rules+Spec+2022+v0.01.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
+* [Download and view the Payroll calculations and business rules specifications **2021** Release](Payroll_calculations%20_business_rules_specifications_2021_V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * Find out how to make employee deduction payments [on the IR website](https://www.ird.govt.nz/employing-staff/payday-filing)
 
 ## Supporting services
 
 * Service: [Multi-payment option](../Service%20-%20Multi-Payment%20ption/)
 
-----
+---
 
 ## Release 2022 update details
 
