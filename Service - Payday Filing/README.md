@@ -27,7 +27,7 @@ Payday filing through our myIR file upload services lets employers:
 	
 
 - Technical Specifications 2022
-    * [Download the Payday Filing File Upload Specification 2022 v0.01](Payday%20Filing%20File%20Upload%20Specification%202022%20v0.01.pdf) for the period April 2021 to March 2022.
+    * [Download the Payday Filing File Upload Specification 2022 v1.0](Payday%20Filing%20File%20Upload%20Specification%202022%20V1.0.pdf) for the period April 2021 to March 2022.
 
 - Technical Specifications 2021
 	* [Download the Payday filing specifications for file upload v 1.4](PaydayFiling_FileUpload_Specification_2021_V1.4.pdf) for the period April 2020 to March 2021. This incorporates
@@ -67,7 +67,7 @@ We provide support for development and testing of the payday filing myIR file up
 
 ## Supporting information
 
-* [Download and view the Payroll calculations and business rules specifications **2022** Release](Payroll+Calculations+%26+Business+Rules+Spec+2022+v0.01.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
+* [Download and view the Payroll calculations and business rules specifications **2022** Release](Payroll%20Calculations%20&amp;%20Business%20Rules%20Spec%202022%20V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * [Download and view the Payroll calculations and business rules specifications **2021** Release](Payroll_calculations%20_business_rules_specifications_2021_V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * Find out how to make employee deduction payments [on the IR website](https://www.ird.govt.nz/employing-staff/payday-filing)
 
