@@ -29,8 +29,13 @@ Payday filing through our myIR file upload services lets employers:
 - Technical Specifications 2022
     * [Download the Payday Filing File Upload Specification 2022 v1.0](Payday%20Filing%20File%20Upload%20Specification%202022%20V1.0.pdf) for the period April 2021 to March 2022.
 
+- Casebooks 2022
+    * [Download the Payday Software Developers Casebook 2022 tax year v 1.0](Payday%20Software%20Developers%20Casebook%202022%20V1.0.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
+	* [Download the Payday Filing casebook input data 2022 tax year v 1.0](Casebook%20Payday%20Filing%20Input%202022%20V1.0.csv) to view example payday filing input data
+	* [Download the Payday Filing casebook upload data 2022 tax year v 1.0](Casebook%20Payday%20Filing%20Upload%202022%20V1.0.csv) to view example payday filing upload data
+	
 - Technical Specifications 2021
-	* [Download the Payday filing specifications for file upload v 1.4](PaydayFiling_FileUpload_Specification_2021_V1.4.pdf) for the period April 2020 to March 2021. This incorporates
+	* [Download the Payday filing specifications for file upload v 1.4](Payday%20Filing%20File%20Upload%20Specification%202021%20V1.4.pdf) for the period April 2020 to March 2021. This incorporates
 		* employee details file transfer (CSV format) for HED2 and HED versions
 		* employee details file upload (Excel format) services 
 		* employment information file transfer service (CSV format) for HEI2 and HEI versions
@@ -39,7 +44,7 @@ Payday filing through our myIR file upload services lets employers:
 
 
 	
-- Casebooks
+- Casebooks 2021
     * [Download the Employment Information Casebook 2021 tax year (HEI2) v 1.0](Payday_EI_Casebook_2021_HEI2_V1.0.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
 	* [Download the Employment Information Casebook 2021 tax year (HEI) v 11](Payday_EI_Casebook_2021_HEI_V11.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
 	* Use the examples to compare with the output from your software package.
@@ -167,6 +172,8 @@ change becomes legislation.
 
 ### EI sample and casebook files
 
+* employment information csv casebook input file - [2022 HEI2 version](Casebook%20Payday%20Filing%20Input%202022%20V1.0.csv)
+* employment information csv casebook upload file - [2022 HEI2 version](Casebook%20Payday%20Filing%20Upload%202022%20V1.0.csv)
 * employment information csv sample file - [2021 HEI2 version](./Sample%20files/EI_Test_HEI2_2021_example.csv)
 * employment information csv casebook input file - [2021 HEI2 version](./Sample%20files/Casebook_EI_Input_HEI2_2021_V1.0.csv)
 * employment information csv casebook upload file - [2021 HEI2 version](./Sample%20files/Casebook_EI_Upload_HEI2_2021_V1.0.csv)
