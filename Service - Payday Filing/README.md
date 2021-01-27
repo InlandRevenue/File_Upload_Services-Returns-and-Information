@@ -1,7 +1,7 @@
 ![IRD logo](../Images/IRlogo.gif)
 ![Software Dev](../Images/SoftwareDev.png)
 
-# Payday filing through myIR File Upload Services
+# Payday Filing through myIR File Upload Services
 
 
 #### Release 2022 tax year - [view details](#Release-2022-update-details)
@@ -13,7 +13,7 @@
 
 ## About the services
 
-Payday filing through our myIR file upload services lets employers:
+Payday Filing through our myIR file upload services lets employers:
 
 * send changes to employee details (ED) for new, existing and departing employees.
 * file employment information (EI) to us each pay cycle instead of monthly.
@@ -23,19 +23,19 @@ Payday filing through our myIR file upload services lets employers:
 ## Key documentation
 
 - Business use cases
-	* [Download and view the Payday filing business use cases](Paydayfiling_myIR_Fileupload_business_use_cases_2021.pdf)
+	* [Download and view the Payday Filing business use cases](Paydayfiling_myIR_Fileupload_business_use_cases_2021.pdf)
 	
 
 - Technical Specifications 2022
     * [Download the Payday Filing File Upload Specification 2022 v1.0](Payday%20Filing%20File%20Upload%20Specification%202022%20V1.0.pdf) for the period April 2021 to March 2022.
 
 - Casebooks 2022
-    * [Download the Payday Software Developers Casebook 2022 tax year v 1.0](Payday%20Software%20Developers%20Casebook%202022%20V1.0.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
-	* [Download the Payday Filing casebook input data 2022 tax year v 1.0](Casebook%20Payday%20Filing%20Input%202022%20V1.0.csv) to view example payday filing input data
-	* [Download the Payday Filing casebook upload data 2022 tax year v 1.0](Casebook%20Payday%20Filing%20Upload%202022%20V1.0.csv) to view example payday filing upload data
+    * [Download the Payday Software Developers Casebook 2022 tax year v 1.0](Payday%20Software%20Developers%20Casebook%202022%20V1.1.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
+	* [Download the Payday Filing casebook input data 2022 tax year v 1.0](Casebook%20Payday%20Filing%20Input%202022%20V1.1.csv) to view example Payday Filing input data
+	* [Download the Payday Filing casebook upload data 2022 tax year v 1.0](Casebook%20Payday%20Filing%20Upload%202022%20V1.1.csv) to view example Payday Filing upload data
 	
 - Technical Specifications 2021
-	* [Download the Payday filing specifications for file upload v 1.4](Payday%20Filing%20File%20Upload%20Specification%202021%20V1.4.pdf) for the period April 2020 to March 2021. This incorporates
+	* [Download the Payday Filing specifications for file upload v 1.4](Payday%20Filing%20File%20Upload%20Specification%202021%20V1.4.pdf) for the period April 2020 to March 2021. This incorporates
 		* employee details file transfer (CSV format) for HED2 and HED versions
 		* employee details file upload (Excel format) services 
 		* employment information file transfer service (CSV format) for HEI2 and HEI versions
@@ -45,8 +45,8 @@ Payday filing through our myIR file upload services lets employers:
 
 	
 - Casebooks 2021
-    * [Download the Employment Information Casebook 2021 tax year (HEI2) v 1.0](Payday_EI_Casebook_2021_HEI2_V1.0.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
-	* [Download the Employment Information Casebook 2021 tax year (HEI) v 11](Payday_EI_Casebook_2021_HEI_V11.pdf) to view scenarios and examples that support the content in the payday filing file upload specification
+    * [Download the Employment Information Casebook 2021 tax year (HEI2) v 1.0](Payday_EI_Casebook_2021_HEI2_V1.0.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
+	* [Download the Employment Information Casebook 2021 tax year (HEI) v 11](Payday_EI_Casebook_2021_HEI_V11.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
 	* Use the examples to compare with the output from your software package.
 	
 ## Sample files
@@ -59,14 +59,14 @@ Payday filing through our myIR file upload services lets employers:
 	
 ## Testing and support for file upload service
 
-We provide support for development and testing of the payday filing myIR file upload services.
+We provide support for development and testing of the Payday Filing myIR file upload services.
 
 * Please register your organisation in our developer portal to access support and to keep up to date with the latest release.
 * Once registered you request access to our Test a file services.
 
 	* [Register for the developer portal](https://developerportal.ird.govt.nz/?Link=SIGNUP)
 
-* Alternatively, if you do not need support you can submit files to us to validate their compatibility with our payday filing specification.
+* Alternatively, if you do not need support you can submit files to us to validate their compatibility with our Payday Filing specification.
 
 	* [Access the Test a file services](#Test-a-file-services)
 
