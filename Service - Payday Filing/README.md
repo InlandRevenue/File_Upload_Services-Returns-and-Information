@@ -172,8 +172,8 @@ change becomes legislation.
 ### EI sample and casebook files
 
 * 2022
-	* employment information csv casebook input file - [2022 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Input%202022%20V1.0.csv)
-	* employment information csv casebook upload file - [2022 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Upload%202022%20V1.0.csv)
+	* employment information csv casebook input file - [2022 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Input%202022%20V1.1.csv)
+	* employment information csv casebook upload file - [2022 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Upload%202022%20V1.1.csv)
 
 * 2021	
 	* employment information csv sample file - [2021 HEI2 version](./Sample%20files/EI_Test_HEI2_2021_example.csv)
