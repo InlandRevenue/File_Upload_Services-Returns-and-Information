@@ -71,7 +71,7 @@ We provide support for development and testing of the Payday Filing myIR file up
 
 ## Supporting information
 
-* [Download and view the Payroll calculations and business rules specifications **2022** Release](Payroll%20Calculations%20&amp;%20Business%20Rules%20Spec%202022%20V1.1.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
+* [Download and view the Payroll calculations and business rules specifications **2022** Release](Payroll%20Calculations%20&amp;%20Business%20Rules%20Spec%202022%20V1.2.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * [Download and view the Payroll calculations and business rules specifications **2021** Release](Payroll_calculations%20_business_rules_specifications_2021_V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * Find out how to make employee deduction payments [on the IR website](https://www.ird.govt.nz/employing-staff/payday-filing)
 
@@ -90,7 +90,7 @@ With the introduction of the new ED and EI file versions in April 2020, the foll
 formats will no longer be accepted: 
 *  From 1 April 2021, the Employee Details file format with the header record indicator 
 of **HED** will no longer be accepted.  The updated version of the Employee Details file 
-format (header record indicator HED2) must be used. 
+format (header record indicator HED2) must be used.
 *  For files with a **payday** of 1 April 2021 or later, the Employment Information file 
 format with the header record indicator of **HEI** will not be accepted.  The updated 
 version of the Employment Information file format (header record indicator HEI2) 
