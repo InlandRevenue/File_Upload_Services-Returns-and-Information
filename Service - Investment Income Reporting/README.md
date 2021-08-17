@@ -17,7 +17,7 @@ Investment income reporting through myIR file upload services lets organisations
 ----
 ## Release 2020 update details
 
-### Investment Income Reporting file upload service - updates in specification v1.3
+### Investment Income Reporting file upload service - updates in specification v1.4
 
 * AIL File - updated AIL deducted and AIL rate fields - validation rules updated for custodians 
 * DWT File - updated Shares field - validation rules updated for custodians
@@ -32,13 +32,12 @@ Investment income reporting through myIR file upload services lets organisations
 ## Key documentation
 
 - Technical Specifications
-	* [Download the Investment Income Reporting filing specifications for file upload v1.3](IIR_File_Upload_Specification_V1.3.pdf). This incorporates:
+* [Download the Investment Income Reporting filing specifications for file upload v1.4](IIR_File_Upload_Specification_V1.4.pdf). This incorporates:
 		* Approved Issuer Levy (AIL) file transfer service (CSV format)
 		* Dividend Withholding Tax (DWT) file transfer service (CSV format) for one and two shareholders
 		* Non-Resident withholding Tax (NRT) file transfer service (CSV format) for dividends, interest, and royalties
 		* Resident Withholding Tax on Interest (IPS) file transfer service (CSV format)
 		* Resident Withholding Tax (RWT) file transfer service (CSV format) for dividends as interest and Maori Authority distributions
-
 	* [Download the Portfolio Investment Entities (PIE) filing specifications for file upload v1.2](PIE%20File%20Upload%20Specification%20V1.2.pdf). This incorporates:
 		* PIE Periodic Return file transfer service (CSV format)
 		* Annual Reconciliation Return file transfer service (CSV format)
