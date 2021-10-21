@@ -3,9 +3,11 @@
 
 # Payday Filing through myIR File Upload Services
 
-#### Release 2023 tax year - [view details](#Release-2023-update-details)
-#### Release 2022 tax year - [view details](#Release-2022-update-details)
-#### Release 2021 tax year - [view details](#Release-2021-update-details)
+#### Release 2023 tax year - [view details](#Release2023updatedetails)
+
+#### Release 2022 tax year - [view details](#Release2022updatedetails)
+
+#### Release 2021 tax year - [view details](#Release2021updatedetails)
 
 #### Archive
 * [Payday Filing - 2020 tax year](./Archive/Release2020/)
@@ -85,7 +87,7 @@ We provide support for development and testing of the Payday Filing myIR file up
 
 ---
 
-## Release 2023 update details
+## Release 2023 update details <a name="Release2023updatedetails"></a>
 
 ### Employee Details file upload service
 
@@ -104,7 +106,7 @@ item.  I.e. The line can be reduced to zero, but not below.
 
 ---
 
-## Release 2022 update details
+## Release 2022 update details <a name="Release2022updatedetails"></a>
 
 ### Employee Details file upload service
 
@@ -142,7 +144,7 @@ change becomes legislation.
 
 ---
 
-## Release 2021 update details
+## Release 2021 update details <a name="Release2021updatedetails"></a>
 
 ### Employee Details file upload service
 
