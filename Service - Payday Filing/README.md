@@ -34,8 +34,8 @@ Payday Filing through our myIR file upload services lets employers:
 - Technical Specifications 2022
     * [Download the Payday Filing File Upload Specification 2022 v1.1](Payday%20Filing%20File%20Upload%20Specification%202022%20V1.1.pdf) for the period April 2021 to March 2022.
 
-- Casebooks 2022
-    * [Download the Payday Software Developers Casebook 2022 tax year v1.3](Payday%20Software%20Developers%20Casebook%202022%20V1.3.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
+- Casebooks 2023
+    * [Download the Payday Software Developers Casebook 2023 tax year v1.](Payday%20Software%20Developers%20Casebook%202023%20V1.0.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
 	
 - Technical Specifications 2021
 	* [Download the Payday Filing specifications for file upload v1.4](Payday%20Filing%20File%20Upload%20Specification%202021%20V1.4.pdf) for the period April 2020 to March 2021. This incorporates
@@ -195,6 +195,10 @@ change becomes legislation.
 
 ### EI sample and casebook files
 
+* 2023
+	* employment information csv casebook input file - [2023 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Input%202023%20V1.0.csv)
+	* employment information csv casebook upload file - [2023 HEI2 version](./Sample%20files/.csv)Casebook%20Payday%20Filing%20Upload%202023%20V1.0.csv)
+	
 * 2022
 	* employment information csv casebook input file - [2022 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Input%202022%20V1.3.csv)
 	* employment information csv casebook upload file - [2022 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Upload%202022%20V1.3.csv)
