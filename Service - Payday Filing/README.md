@@ -29,7 +29,7 @@ Payday Filing through our myIR file upload services lets employers:
 	* [Download and view the Payday Filing business use cases](Paydayfiling_myIR_Fileupload_business_use_cases_2021.pdf)
 	
 - Technical Specifications 2023
-  * [Download the Payday Filing File Upload Specification 2023 v0.02](Payday%20Filing%20File%20Upload%20Specification%202023%20v0.02.pdf) for the period April 2022 to March 2023.	
+  * [Download the Payday Filing File Upload Specification 2023 v0.02](Payday%20Filing%20File%20Upload%20Specification%202023%20V1.0.pdf) for the period April 2022 to March 2023.	
 
 - Technical Specifications 2022
     * [Download the Payday Filing File Upload Specification 2022 v1.1](Payday%20Filing%20File%20Upload%20Specification%202022%20V1.1.pdf) for the period April 2021 to March 2022.
@@ -76,7 +76,7 @@ We provide support for development and testing of the Payday Filing myIR file up
 
 ## Supporting information
 
-* [Download and view the Payroll calculations and business rules specifications **2023** Release](Payroll%20Calculations%20%26%20Business%20Rules%20Spec%202023%20v0.02.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
+* [Download and view the Payroll calculations and business rules specifications **2023** Release](Payroll%20Calculations%20%26%20Business%20Rules%20Spec%202023%20V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * [Download and view the Payroll calculations and business rules specifications **2022** Release](Payroll%20Calculations%20&amp;%20Business%20Rules%20Spec%202022%20V1.2.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * [Download and view the Payroll calculations and business rules specifications **2021** Release](Payroll_calculations%20_business_rules_specifications_2021_V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * Find out how to make employee deduction payments [on the IR website](https://www.ird.govt.nz/employing-staff/payday-filing)
