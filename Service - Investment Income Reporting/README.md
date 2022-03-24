@@ -38,7 +38,7 @@ Investment income reporting through myIR file upload services lets organisations
 		* Non-Resident withholding Tax (NRT) file transfer service (CSV format) for dividends, interest, and royalties
 		* Resident Withholding Tax on Interest (IPS) file transfer service (CSV format)
 		* Resident Withholding Tax (RWT) file transfer service (CSV format) for dividends as interest and Maori Authority distributions
-	* [Download the Portfolio Investment Entities (PIE) filing specifications for file upload v1.2](PIE%20File%20Upload%20Specification%20V1.2.pdf). This incorporates:
+	* [Download the Portfolio Investment Entities (PIE) filing specifications for file upload v1.3](PIE%20File%20Upload%20Specification%20V1.3.pdf). This incorporates:
 		* PIE Periodic Return file transfer service (CSV format)
 		* Annual Reconciliation Return file transfer service (CSV format)
 		* Investor Certificates file transfer service (CSV format)
