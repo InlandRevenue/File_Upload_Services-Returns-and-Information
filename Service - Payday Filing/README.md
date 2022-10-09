@@ -218,7 +218,7 @@ change becomes legislation.
 ----
 ## Test a file services
 
-* <a href="https://myir.ird.govt.nz/eservices/home?link=TSTEMP2" target="_blank">Employee Details CSV - Release 2021</a>
-* <a href="https://myir.ird.govt.nz/eservices/home?link=TSTLNK" target="_blank">Employee Details Excel Release 2021</a>
-* <a href="https://myir.ird.govt.nz/eservices/home?link=PSOEI2TEST" target="_blank">Employment Information CSV Release 2021</a>
-* <a href="https://myir.ird.govt.nz/eservices/home?link=PSOEIATEST2" target="_blank">Employment Information Amend CSV Release 2021</a>
+* <a href="https://myir.ird.govt.nz/tools?link=TSTEMP2" target="_blank">Employee Details CSV - Release 2021</a>
+* <a href="https://myir.ird.govt.nz/tools?link=TSTLNK" target="_blank">Employee Details Excel Release 2021</a>
+* <a href="https://myir.ird.govt.nz/tools?link=PSOEI2TEST" target="_blank">Employment Information CSV Release 2021</a>
+* <a href="https://myir.ird.govt.nz/tools?link=PSOEIATEST2" target="_blank">Employment Information Amend CSV Release 2021</a>
