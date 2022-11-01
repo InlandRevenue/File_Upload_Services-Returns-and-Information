@@ -10,9 +10,11 @@
 #### Release 2021 tax year - [view details](#Release2021updatedetails)
 
 #### Archive
-* [Payday Filing - 2020 tax year](./Archive/Release2020/)
-* [Payday Filing - 2021 tax year](./Archive/Release2021/)
+
+* [Payday Filing - 2023 tax year](./Archive/Release2023/)
 * [Payday Filing - 2022 tax year](./Archive/Release2022/)
+* [Payday Filing - 2021 tax year](./Archive/Release2021/)
+* [Payday Filing - 2020 tax year](./Archive/Release2020/)
 
 ## About the services
 
@@ -27,15 +29,18 @@ Payday Filing through our myIR file upload services lets employers:
 
 - Business use cases
 	* [Download and view the Payday Filing business use cases](Paydayfiling_myIR_Fileupload_business_use_cases_2021.pdf)
+
+- Technical Specifications 2024
+  * [Download the Payday Filing File Upload Specification 2024 v0.01](Payday%20Filing%20File%20Upload%20Specification%202024%20v0.01.pdf) for the period April 2023 to March 2024.	
 	
 - Technical Specifications 2023
-  * [Download the Payday Filing File Upload Specification 2023 v0.02](Payday%20Filing%20File%20Upload%20Specification%202023%20V1.0.pdf) for the period April 2022 to March 2023.	
+  * [Download the Payday Filing File Upload Specification 2023 v1.00](Payday%20Filing%20File%20Upload%20Specification%202023%20V1.0.pdf) for the period April 2022 to March 2023.	
 
 - Technical Specifications 2022
     * [Download the Payday Filing File Upload Specification 2022 v1.1](Payday%20Filing%20File%20Upload%20Specification%202022%20V1.1.pdf) for the period April 2021 to March 2022.
 
 - Casebooks 2023
-    * [Download the Payday Software Developers Casebook 2023 tax year v1.0](Payday%20Software%20Developers%20Casebook%202023%20V1.1.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
+    * [Download the Payday Software Developers Casebook 2023 tax year v1.1](Payday%20Software%20Developers%20Casebook%202023%20V1.1.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
 	
 - Technical Specifications 2021
 	* [Download the Payday Filing specifications for file upload v1.4](Payday%20Filing%20File%20Upload%20Specification%202021%20V1.4.pdf) for the period April 2020 to March 2021. This incorporates
@@ -76,6 +81,7 @@ We provide support for development and testing of the Payday Filing myIR file up
 
 ## Supporting information
 
+* [Download and view the Payroll calculations and business rules specifications **2024** Release](Payroll%20Calculations%20%26%20Business%20Rules%20Spec%202024%20v0.01.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * [Download and view the Payroll calculations and business rules specifications **2023** Release](Payroll%20Calculations%20%26%20Business%20Rules%20Spec%202023%20V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * [Download and view the Payroll calculations and business rules specifications **2022** Release](Payroll%20Calculations%20&amp;%20Business%20Rules%20Spec%202022%20V1.2.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * [Download and view the Payroll calculations and business rules specifications **2021** Release](Payroll_calculations%20_business_rules_specifications_2021_V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
