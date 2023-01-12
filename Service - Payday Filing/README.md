@@ -3,6 +3,8 @@
 
 # Payday Filing through myIR File Upload Services
 
+#### Release 2024 tax year - [view details](#Release2024updatedetails)
+
 #### Release 2023 tax year - [view details](#Release2023updatedetails)
 
 #### Release 2022 tax year - [view details](#Release2022updatedetails)
@@ -31,17 +33,14 @@ Payday Filing through our myIR file upload services lets employers:
 	* [Download and view the Payday Filing business use cases](Paydayfiling_myIR_Fileupload_business_use_cases_2021.pdf)
 
 - Technical Specifications 2024
-  * [Download the Payday Filing File Upload Specification 2024 v0.01](Payday%20Filing%20File%20Upload%20Specification%202024%20V1.0.pdf) for the period April 2023 to March 2024.	
+  * [Download the Payday Filing File Upload Specification 2024 v1.0](Payday%20Filing%20File%20Upload%20Specification%202024%20V1.0.pdf) for the period April 2023 to March 2024.	
 	
 - Technical Specifications 2023
-  * [Download the Payday Filing File Upload Specification 2023 v1.00](Payday%20Filing%20File%20Upload%20Specification%202023%20V1.0.pdf) for the period April 2022 to March 2023.	
+  * [Download the Payday Filing File Upload Specification 2023 v1.0](Payday%20Filing%20File%20Upload%20Specification%202023%20V1.0.pdf) for the period April 2022 to March 2023.	
 
 - Technical Specifications 2022
     * [Download the Payday Filing File Upload Specification 2022 v1.1](Payday%20Filing%20File%20Upload%20Specification%202022%20V1.1.pdf) for the period April 2021 to March 2022.
 
-- Casebooks 2023
-    * [Download the Payday Software Developers Casebook 2023 tax year v1.1](Payday%20Software%20Developers%20Casebook%202023%20V1.1.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
-	
 - Technical Specifications 2021
 	* [Download the Payday Filing specifications for file upload v1.4](Payday%20Filing%20File%20Upload%20Specification%202021%20V1.4.pdf) for the period April 2020 to March 2021. This incorporates
 		* employee details file transfer (CSV format) for HED2 and HED versions
@@ -50,8 +49,15 @@ Payday Filing through our myIR file upload services lets employers:
 		* employment information amendments file transfer service (CSV format) for EIA2 and EIA versions
 		* EMS and EDF payroll filing (CSV format) - filing amendments to payroll schedules submitted before 1 April 2019. 
 
+- Casebooks 2024
+    * [Download the Payday Software Developers Casebook 2024 V1.0](Payday%20Software%20Developers%20Casebook%202024%20V1.0.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
 
-	
+- Casebooks 2023
+    * [Download the Payday Software Developers Casebook 2023 v1.1](Payday%20Software%20Developers%20Casebook%202023%20V1.1.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
+
+- Casebooks 2022
+    * [Download the Payday Software Developers Casebook 2022 V1.3](Payday%20Software%20Developers%20Casebook%202022%20V1.3.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
+
 - Casebooks 2021
     * [Download the Employment Information Casebook 2021 tax year (HEI2) v1.0](Payday_EI_Casebook_2021_HEI2_V1.0.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
 	* [Download the Employment Information Casebook 2021 tax year (HEI) v11](Payday_EI_Casebook_2021_HEI_V11.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
@@ -63,7 +69,7 @@ Payday Filing through our myIR file upload services lets employers:
 * [View and download](#EIA-sample-files) employment information amendments (EIA) sample files for EIA2 version
 
 - Excel template 
-    * [Download employee details Excel template 2022](./Sample%20files/New_and_departing_Employee_Details_template_R2022.xls)
+    * [Download employee details Excel template 2022+](./Sample%20files/New_and_departing_Employee_Details_template_R2022.xls)
 	* [Download employee details Excel template 2021](./Sample%20files/New_and_departing_Employee_Details_template_R2021.xls)
 	
 ## Testing and support for file upload service
@@ -90,6 +96,18 @@ We provide support for development and testing of the Payday Filing myIR file up
 ## Supporting services
 
 * Service: [Multi-payment option](../Service%20-%20Multi-Payment%20ption/)
+
+---
+
+## Release 2024 update details <a name="Release2024updatedetails"></a>
+
+### Employee Details file upload service
+
+Summary of major document updates for 2023/24 Year 
+The following changes have been made to the relevant sections throughout the document and noted in the Change Log.  A summary is provided here for increased visibility of the updates. 
+
+The ‘Payroll services filing’ section has been removed from the 2023/24 version of the Payday Filing File Upload Specification as this information is no longer relevant. The information contained in this section was retained for those employers needing to file an 
+IR348 EMS for periods prior to 1 April 2019, or an IR345 Employer Deductions or SCF Electronic Subsidy Claim Form for periods prior to 1 April 2020. 
 
 ---
 
@@ -201,9 +219,13 @@ change becomes legislation.
 
 ### EI sample and casebook files
 
+* 2024
+	* employment information csv casebook input file - [2024 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Input%202024%20V1.0.csv)
+	* employment information csv casebook upload file - [2024 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Upload%202024%20V1.0.csv)
+
 * 2023
 	* employment information csv casebook input file - [2023 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Input%202023%20V1.1.csv)
-	* employment information csv casebook upload file - [2023 HEI2 version](./Sample%20files/.csv)Casebook%20Payday%20Filing%20Upload%202023%20V1.1.csv)
+	* employment information csv casebook upload file - [2023 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Upload%202023%20V1.1.csv)
 	
 * 2022
 	* employment information csv casebook input file - [2022 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Input%202022%20V1.3.csv)
