@@ -33,10 +33,10 @@ Payday Filing through our myIR file upload services lets employers:
 	* [Download and view the Payday Filing business use cases](Paydayfiling_myIR_Fileupload_business_use_cases_2021.pdf)
 
 - Technical Specifications 2024
-  * [Download the Payday Filing File Upload Specification 2024 v0.01](Payday%20Filing%20File%20Upload%20Specification%202024%20V1.0.pdf) for the period April 2023 to March 2024.	
+  * [Download the Payday Filing File Upload Specification 2024 v1.0](Payday%20Filing%20File%20Upload%20Specification%202024%20V1.0.pdf) for the period April 2023 to March 2024.	
 	
 - Technical Specifications 2023
-  * [Download the Payday Filing File Upload Specification 2023 v1.00](Payday%20Filing%20File%20Upload%20Specification%202023%20V1.0.pdf) for the period April 2022 to March 2023.	
+  * [Download the Payday Filing File Upload Specification 2023 v1.0](Payday%20Filing%20File%20Upload%20Specification%202023%20V1.0.pdf) for the period April 2022 to March 2023.	
 
 - Technical Specifications 2022
     * [Download the Payday Filing File Upload Specification 2022 v1.1](Payday%20Filing%20File%20Upload%20Specification%202022%20V1.1.pdf) for the period April 2021 to March 2022.
