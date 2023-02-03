@@ -57,7 +57,7 @@ We provide support for development and testing of the Payday Filing myIR file up
 ## Supporting information
 
 * [Download and view the Payroll calculations and business rules specifications **2024** Release](./2024/Payroll%20Calculations%20%26%20Business%20Rules%20Spec%202024%20V1.1.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
-* [Download and view the Payroll calculations and business rules specifications **2023** Release](./2024/Payroll%20Calculations%20%26%20Business%20Rules%20Spec%202023%20V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
+* [Download and view the Payroll calculations and business rules specifications **2023** Release](./2023/Payroll%20Calculations%20%26%20Business%20Rules%20Spec%202023%20V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * Find out how to make employee deduction payments [on the IR website](https://www.ird.govt.nz/employing-staff/payday-filing)
 
 ## Supporting services
