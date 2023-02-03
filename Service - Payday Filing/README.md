@@ -62,7 +62,7 @@ We provide support for development and testing of the Payday Filing myIR file up
 
 ## Supporting services
 
-* Service: [Multi-payment option](../Service%20-%20Multi-Payment%20ption/)
+* Service: [Multi-payment option](../Service%20-%20Multi-Payment%20Option/)
 
 ---
 
