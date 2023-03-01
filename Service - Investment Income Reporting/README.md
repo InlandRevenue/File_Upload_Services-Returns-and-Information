@@ -15,6 +15,13 @@ Investment income reporting through myIR file upload services lets organisations
 * It is available for the withholding tax product types - Approved issuer levy (AIL), Dividend withholding tax (DWT), Interest pay as you earn (IPS), Non-resident withholding tax (NRT), Resident withholding tax (RWT) and Portfolio investment entities (PIE) attributed income tax.
 
 ----
+## Release 2023 update details
+
+### Investment Income Reporting file upload service - updates in specification v1.5
+
+* See build back for changes 
+
+----
 ## Release 2020 update details
 
 ### Investment Income Reporting file upload service - updates in specification v1.4
@@ -32,16 +39,13 @@ Investment income reporting through myIR file upload services lets organisations
 ## Key documentation
 
 - Technical Specifications
-* [Download the Investment Income Reporting filing specifications for file upload v1.4](IIR_File_Upload_Specification_V1.4.pdf). This incorporates:
-		* Approved Issuer Levy (AIL) file transfer service (CSV format)
-		* Dividend Withholding Tax (DWT) file transfer service (CSV format) for one and two shareholders
-		* Non-Resident withholding Tax (NRT) file transfer service (CSV format) for dividends, interest, and royalties
-		* Resident Withholding Tax on Interest (IPS) file transfer service (CSV format)
-		* Resident Withholding Tax (RWT) file transfer service (CSV format) for dividends as interest and Maori Authority distributions
-	* [Download the Portfolio Investment Entities (PIE) filing specifications for file upload v1.3](PIE%20File%20Upload%20Specification%20V1.3.pdf). This incorporates:
-		* PIE Periodic Return file transfer service (CSV format)
-		* Annual Reconciliation Return file transfer service (CSV format)
-		* Investor Certificates file transfer service (CSV format)
+
+* [Download the Investment Income Reporting filing specifications for file upload v1.5](IIR_File_Upload_Specification_V1.5.pdf). 
+
+* [Download the Portfolio Investment Entities (PIE) filing specifications for file upload v1.3](PIE%20File%20Upload%20Specification%20V1.3.pdf). This incorporates:
+	* PIE Periodic Return file transfer service (CSV format)
+	* Annual Reconciliation Return file transfer service (CSV format)
+	* Investor Certificates file transfer service (CSV format)
 
 - User guide
     * [Download the Investment Income Reporting file upload guide v 1.0](Investment_Income_Returns_file_upload_guide.pdf) to view guidelines on how to file for DWT, IPS and NRT that support the content in the Investment Income Reporting file upload specification.
