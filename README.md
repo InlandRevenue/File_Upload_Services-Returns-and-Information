@@ -2,7 +2,7 @@
 ![IRD logo](Images/IRlogo.gif)
 ![Software Dev](Images/SoftwareDev.png) 
 
-# Returns and Information
+# Returns and Information - File Upload Service
 
 Use this repository to access software development kits (SDKs) for returns and information services offered through Inland Revenue's myIR file upload services.
 
@@ -22,3 +22,6 @@ Payday filing through our myIR file upload services lets employers:
 
 The Multi-payment option (MPO) service enables:
 *  filing any schedular payments to a payers multi-payment option (MPO) account at Inland Revenue which are then posted against multiple customer's accounts.
+
+## [Income](./Service%20-%20Income/)
+*  IR offers file upload services that give customers, tax agents and other intermediaries secure and convenient methods of filing the Estate or Trust beneficiary details IR6B and Company shareholders’ details IR4S online.
