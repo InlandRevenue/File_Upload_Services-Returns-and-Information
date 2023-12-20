@@ -3,6 +3,7 @@
 
 # Payday Filing through myIR File Upload Services
 
+#### Release 2025 tax year - [view details](#Release2025updatedetails)
 #### Release 2024 tax year - [view details](#Release2024updatedetails)
 #### Release 2023 tax year - [view details](#Release2023updatedetails)
 
@@ -25,10 +26,13 @@ Payday Filing through our myIR file upload services lets employers:
 	* [Download and view the Payday Filing business use cases](Paydayfiling_myIR_Fileupload_business_use_cases_2021.pdf)
 
 - Technical Specifications  
+  * ~~[Download the Payday Filing File Upload Specification 2025 v1.0](./2024/Payday%20Filing%20File%20Upload%20Specification%202025%20V1.0.pdf) for the period April 2024 to March 2025.~~	
   * [Download the Payday Filing File Upload Specification 2024 v1.0](./2024/Payday%20Filing%20File%20Upload%20Specification%202024%20V1.0.pdf) for the period April 2023 to March 2024.	
   * [Download the Payday Filing File Upload Specification 2023 v1.0](./2023/Payday%20Filing%20File%20Upload%20Specification%202023%20V1.0.pdf) for the period April 2022 to March 2023.	
 
 - Casebooks 
+
+    * ~~[Download the Payday Software Developers Casebook 2025 V1.0](./2025/Payday%20Software%20Developers%20Casebook%202025%20V1.0.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification~~
     * [Download the Payday Software Developers Casebook 2024 V1.0](./2024/Payday%20Software%20Developers%20Casebook%202024%20V1.0.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
     * [Download the Payday Software Developers Casebook 2023 v1.1](./2023/Payday%20Software%20Developers%20Casebook%202023%20V1.1.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
 
@@ -56,6 +60,7 @@ We provide support for development and testing of the Payday Filing myIR file up
 
 ## Supporting information
 
+* [Download and view the Payroll calculations and business rules specifications **2025** Release](./2024/Payroll%20Calculations%20%26%20Business%20Rules%20Spec%202025%20V0.01.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * [Download and view the Payroll calculations and business rules specifications **2024** Release](./2024/Payroll%20Calculations%20%26%20Business%20Rules%20Spec%202024%20V1.1.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * [Download and view the Payroll calculations and business rules specifications **2023** Release](./2023/Payroll%20Calculations%20%26%20Business%20Rules%20Spec%202023%20V1.0.pdf) - for the defined tax rates and thresholds, tax types business rules, and calculations required for specific tax codes
 * Find out how to make employee deduction payments [on the IR website](https://www.ird.govt.nz/employing-staff/payday-filing)
@@ -63,6 +68,17 @@ We provide support for development and testing of the Payday Filing myIR file up
 ## Supporting services
 
 * Service: [Multi-payment option](../Service%20-%20Multi-Payment%20Option/)
+
+---
+
+## Release 2024 update details <a name="Release2025updatedetails"></a>
+
+### Employee Details file upload service
+
+Summary of major document updates for 2024/25 Year 
+The following changes have been made to the relevant sections throughout the document and noted in the Change Log.  
+
+
 
 ---
 
