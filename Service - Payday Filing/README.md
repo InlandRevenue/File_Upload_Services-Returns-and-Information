@@ -32,7 +32,7 @@ Payday Filing through our myIR file upload services lets employers:
 
 - Casebooks 
 
-    * [Download the Payday Software Developers Casebook 2025 V0.01](./2025/Payday%20Software%20Developers%20Casebook%202025%20V0.01.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
+    * [Download the Payday Software Developers Casebook 2025 V0.02](./2025/Payday%20Software%20Developers%20Casebook%202025%20V0.02.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
     * [Download the Payday Software Developers Casebook 2024 V1.0](./2024/Payday%20Software%20Developers%20Casebook%202024%20V1.0.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
     * [Download the Payday Software Developers Casebook 2023 v1.1](./2023/Payday%20Software%20Developers%20Casebook%202023%20V1.1.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
 
