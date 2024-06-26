@@ -32,7 +32,7 @@ Payday Filing through our myIR file upload services lets employers:
 
 - Casebooks 
 
-    * [Download the Payday Software Developers Casebook 2025 V1.1](./2025/Payday%20Software%20Developers%20Casebook%20July%202024_2025%20V1.1.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
+    * [Download the Payday Software Developers Casebook 2025 V1.2](./2025/Payday%20Software%20Developers%20Casebook%20July%202024_2025%20V1.2.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
     * [Download the Payday Software Developers Casebook 2024 V1.0](./2024/Payday%20Software%20Developers%20Casebook%202024%20V1.0.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
     * [Download the Payday Software Developers Casebook 2023 v1.1](./2023/Payday%20Software%20Developers%20Casebook%202023%20V1.1.pdf) to view scenarios and examples that support the content in the Payday Filing file upload specification
 
@@ -122,8 +122,8 @@ item.  I.e. The line can be reduced to zero, but not below.
 
 ### EI sample and casebook files
 
-* employment information csv casebook input file - [2025 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Input%202024_2025%20V1.1.csv)
-* employment information csv casebook upload file - [2025 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Upload%20July%202024_2025%20V1.0.csv)
+* employment information csv casebook input file - [2025 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Input%202024_2025%20V1.2.csv)
+* employment information csv casebook upload file - [2025 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Upload%20July%202024_2025%20V1.1.csv)
 * employment information csv casebook input file - [2024 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Input%202024%20V1.0.csv)
 * employment information csv casebook upload file - [2024 HEI2 version](./Sample%20files/Casebook%20Payday%20Filing%20Upload%202024%20V1.0.csv)
 * employment information csv sample file - [2021+ HEI2 version](./Sample%20files/EI_Test_HEI2_2021_example.csv)
